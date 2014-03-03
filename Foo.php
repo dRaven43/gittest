@@ -4,6 +4,7 @@ class foo {
 
 	private a;
 	private b;
+	private c;
 
 	public function seta($value){
 		$this->a = $value;
