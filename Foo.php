@@ -18,6 +18,10 @@ class foo {
 		$this->c = $value;
 	} // end function setc
 
+	public function geta(){
+		return $this->a;
+	}  // end function geta
+
 
 } // end class foo
 
