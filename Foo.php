@@ -22,6 +22,10 @@ class foo {
 		return $this->a;
 	}  // end function geta
 
+	public function getb(){
+		return $this->b;
+	} // end function getb
+
 
 } // end class foo
 
