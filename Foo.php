@@ -14,6 +14,10 @@ class foo {
 		$this->b = $value;
 	} // end function setb
 
+	public function getspoons() {
+		return Array("spoon", "spoon", "spoon");
+	} // end function getspoons
+
 
 } // end class foo
 
