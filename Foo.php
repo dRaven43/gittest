@@ -14,6 +14,10 @@ class foo {
 		$this->b = $value;
 	} // end function setb
 
+	public function setc($value){
+		$this->c = $value;
+	} // end function setc
+
 
 } // end class foo
 
