@@ -1,0 +1,33 @@
+..               ...'.......................;
+              .':dkO00Od:...................;
+..............:dk00KXXXKKO;..'.;;..... .....;
+........... .':ok0KXNNXKK0k,.......    .....l
+........... ..,cdO0XXXKOxdk:.....     ..'...l
+...........  ..,;::lo'.   .l.:;..  .  .''...l
+'...........        o,    .o:cd,.  . ..;:'..o
+'..........        .oOxcclxxdxx.............d
+'''';'......   .';;..:ldddxxd:..............x
+''',xl.';.....  .;,..;cllodxd'..............x
+,'''cd''c,..... .....''..cxd:...............k
+''.'clo:;'...... .''';:loocolc;.............k
+   ',:oo:'.'c,      ...',;:c:.,'............k
+   ..cdxd,.,l,   ..'....:ldO0'  ..........''k
+     cxkkc.'l;   ;'::c:'.;ol:;,          ...k
+     ;xOO0Oxkk.   c..',,;;'..;0,      .     '
+     .:OK00000:   .ONWWNWMMWWMMO     kXOl
+      .:xO000k;    .0MMMWMMMMMMN'   ,o0NN'
+        'coxxd.     .KMMMMMMMMMM:  .ll0KNx
+        .;:::;       'XMMMWMMMMMc  .  .;;.
+       ';:oooc        ,WMMMMMMMMc
+       c0Okk0c         oMMMMMMMM:
+       .KXXKd.         .0MMMMMMW'
+        '00o.           'WMMMMMX.
+         .;.             cWMNMMk
+                          kMMMWc
+                          ,WMMN.
+                           xMMk
+                           .XWc
+                            ;k.
+                             :
+
+
